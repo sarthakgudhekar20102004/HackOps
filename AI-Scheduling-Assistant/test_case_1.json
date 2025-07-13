@@ -1,0 +1,16 @@
+{
+    "Request_id": "6118b54f-907b-4451-8d48-dd13d76033a5",
+    "Datetime": "13-07-2025T12:34:55",
+    "Location": "IIT Mumbai",
+    "From": "sarthakgudhekar@gmail.com",
+    "Attendees": [
+        {
+            "email": "demonotion2@gmail.com"
+        },
+        {
+            "email": "kalilinux140235@gmail.com"
+        }
+    ],
+    "Subject": "Goals Discussion",
+    "EmailContent": "Hi Team. Let's meet next Thursday and discuss about our Goals."
+}
